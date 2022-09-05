@@ -19,7 +19,7 @@ and a total amount of `2` units of water trapped. After we calculated total amou
   ```
  [ 4 | 3 | 3 | 3 | 3 | 3 ]
  ```
- and a total amount of `9` units of water trapped. Finally we have a `5`, which is a problem given our algorithm, since all elements in the stack are than 5. Thus we also need to keep track of the maximum element in the stack, and view `5` as virtually the maximum element when pushing it into the stack. The maximum element is like a wall which prevents the water from flowing to the left of it. The maximum element is `4`, so we have
+ and a total amount of `9` units of water trapped. Finally we have a `5`, which is a problem given our algorithm, since all elements in the stack are less than 5. Thus we also need to keep track of the maximum element in the stack, and view `5` as virtually the maximum element when pushing it into the stack. The maximum element is like a wall which prevents the water from flowing to the left of it. The maximum element is `4`, so we have
  ```
  [ 4 | 4 | 4 | 4 | 4 | 4 | 5 ]
  ```
