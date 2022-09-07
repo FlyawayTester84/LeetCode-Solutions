@@ -7,6 +7,8 @@
 
 600 [Non-negative Integers without Consecutive Ones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/600.md) | Dynamical Programming | Recursion
 
+1561 [Maximum Number of Coins You Can Get](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1561.md) | Combinatorics | Greedy Algorithm
+
 1753 [Maximum Score From Removing Stones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1753.md) | Combinatorics
 
 2400 [Number of Ways to Reach a Position After Exactly k Steps](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/2400.md) | Combinatorics | Dynamical Programming
