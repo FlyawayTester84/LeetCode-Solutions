@@ -1,6 +1,8 @@
 # LeetCode-Solutions
 42 [Trapping Rain Water](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/42.md) | Monotonic Stack
 
+96 [Unique Binary Search Trees](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/96.md) | Combinatorics
+
 338 [Counting Bits](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/338.md) | Dynamical Programming and Memoization
 
 600 [Non-negative Integers without Consecutive Ones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/600.md) | Dynamical Programming | Recursion
