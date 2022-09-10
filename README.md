@@ -5,7 +5,7 @@
 
 188 [Best Time to Buy and Sell Stock IV](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/188.md) | Greedy Algorithm | Dynamic Programming
 
-338 [Counting Bits](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/338.md) | Dynamical Programming and Memoization
+338 [Counting Bits](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/338.md) | Dynamic Programming and Memoization
 
 600 [Non-negative Integers without Consecutive Ones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/600.md) | Dynamic Programming | Recursion
 
