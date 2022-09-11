@@ -9,6 +9,8 @@
 
 600 [Non-negative Integers without Consecutive Ones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/600.md) | Dynamic Programming | Recursion
 
+1383 [Maximum Performance of a Team](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1383.md) | Greedy Algorithm | Heap
+
 1561 [Maximum Number of Coins You Can Get](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1561.md) | Combinatorics | Greedy Algorithm
 
 1589 [Maximum Sum Obtained of Any Permutation](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1589.md) | Prefix Sum | Rearrangement Inequality
