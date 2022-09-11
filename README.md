@@ -1,4 +1,4 @@
-# LeetCode-Solutions
+# LeetCode Solutions
 42 [Trapping Rain Water](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/42.md) | Monotonic Stack
 
 96 [Unique Binary Search Trees](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/96.md) | Combinatorics
