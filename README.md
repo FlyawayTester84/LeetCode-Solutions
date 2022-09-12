@@ -9,6 +9,8 @@
 
 600 [Non-negative Integers without Consecutive Ones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/600.md) | Dynamic Programming | Recursion
 
+948 [Bag of Tokens](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/948.md) | Greedy Algorithm | Deque
+
 1383 [Maximum Performance of a Team](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1383.md) | Greedy Algorithm | Heap
 
 1561 [Maximum Number of Coins You Can Get](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1561.md) | Combinatorics | Greedy Algorithm
