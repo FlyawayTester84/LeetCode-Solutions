@@ -13,6 +13,8 @@
 
 1383 [Maximum Performance of a Team](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1383.md) | Greedy Algorithm | Heap
 
+1457 [Pseudo-Palindromic Paths in a Binary Tree]（https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1457.md）| DFS | Bitmask
+
 1561 [Maximum Number of Coins You Can Get](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1561.md) | Combinatorics | Greedy Algorithm
 
 1589 [Maximum Sum Obtained of Any Permutation](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1589.md) | Prefix Sum | Rearrangement Inequality
