@@ -21,6 +21,8 @@
 
 1753 [Maximum Score From Removing Stones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1753.md) | Combinatorics
 
+1975 [Maximum Matrix Sum](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1975.md) | Greedy Algorithm
+
 2007 [Find Original Array From Doubled Array](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/2007.md) | Hash Table | Greedy Algorithm
 
 2400 [Number of Ways to Reach a Position After Exactly k Steps](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/2400.md) | Combinatorics | Dynamic Programming
