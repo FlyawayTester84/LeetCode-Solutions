@@ -9,6 +9,8 @@
 
 600 [Non-negative Integers without Consecutive Ones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/600.md) | Dynamic Programming | Recursion
 
+739 [https://leetcode.com/problems/daily-temperatures/](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/739.md) | Monotonic Stack
+
 948 [Bag of Tokens](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/948.md) | Greedy Algorithm | Deque
 
 1383 [Maximum Performance of a Team](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1383.md) | Greedy Algorithm | Heap
