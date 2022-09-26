@@ -13,6 +13,8 @@
 
 948 [Bag of Tokens](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/948.md) | Greedy Algorithm | Deque
 
+990 [Satisfiability of Equality Equations](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/990.md) | Introduction to Union Find
+
 1383 [Maximum Performance of a Team](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1383.md) | Greedy Algorithm | Heap
 
 1457 [Pseudo-Palindromic Paths in a Binary Tree](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1457.md) | DFS | Bitmask
