@@ -23,6 +23,8 @@
 
 1589 [Maximum Sum Obtained of Any Permutation](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1589.md) | Prefix Sum | Rearrangement Inequality
 
+1621 [Number of Sets of K Non-Overlapping Line Segments](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1621.md) | Combinatorics | Dynamic Programming
+
 1753 [Maximum Score From Removing Stones](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1753.md) | Combinatorics
 
 1975 [Maximum Matrix Sum](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/1975.md) | Greedy Algorithm
