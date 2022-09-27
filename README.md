@@ -11,6 +11,8 @@
 
 739 [Daily Temperatures](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/739.md) | Monotonic Stack
 
+838 [Push Dominoes](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/838.md) | Dynamic Programming
+
 948 [Bag of Tokens](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/948.md) | Greedy Algorithm | Deque
 
 990 [Satisfiability of Equality Equations](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/990.md) | Introduction to Union Find
