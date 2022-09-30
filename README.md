@@ -15,6 +15,8 @@
 
 739 [Daily Temperatures](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/739.md) | Monotonic Stack
 
+745 [Prefix and Suffix Search](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/745.md) | Trie
+
 838 [Push Dominoes](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/838.md) | Dynamic Programming
 
 948 [Bag of Tokens](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/948.md) | Greedy Algorithm | Deque
