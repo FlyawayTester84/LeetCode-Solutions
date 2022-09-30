@@ -3,6 +3,8 @@
 
 96 [Unique Binary Search Trees](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/96.md) | Combinatorics
 
+139 [Word Break](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/139.md) | Trie | Dynamic Programming
+
 188 [Best Time to Buy and Sell Stock IV](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/188.md) | Greedy Algorithm | Dynamic Programming
 
 218 [The Skyline Problem](https://github.com/FlyawayTester84/LeetCode-Solutions/blob/main/218.md) | Heap
